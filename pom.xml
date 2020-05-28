@@ -57,7 +57,7 @@
                 <artifactId>exec-maven-plugin</artifactId>
                 <version>${exec-maven-plugin}</version>
                 <configuration>
-                    <mainClass>org.web3j.sample.Application</mainClass>
+                    <!-- <mainClass>org.web3j.sample.Application</mainClass> -->
                 </configuration>
             </plugin>
         </plugins>
