@@ -9,7 +9,7 @@
     <version>1.0.0-SNAPSHOT</version>
          
       <name>sample_maven</name>
-         <packaging>war</packaging>
+      <packaging>war</packaging>
 
     <properties>
         <web3j.version>3.6.0</web3j.version>
